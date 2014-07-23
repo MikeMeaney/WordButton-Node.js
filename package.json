@@ -2,9 +2,8 @@
   "name" : "Wordify",
   "version" : "0.0.1",
   "dependencies" : {
-    "express" : "*",
-    "request" :"*",
-    "http" : "*"
+    "express" : “4.6.1”,
+    "request" :"2.16.6",
   },
 
 }
