@@ -201,4 +201,4 @@ http.createServer(function (req, res){
     //Alrighty then, let's get this party started
     randomWord();
 
-}).listen(8080, '127.0.0.1');
+}).listen(PORT, IP);
