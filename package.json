@@ -6,6 +6,5 @@
     "request" :"*",
     "http" : "*"
   },
- 
-  "main": "app.js"
+
 }
