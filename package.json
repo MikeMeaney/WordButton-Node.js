@@ -1,8 +1,11 @@
 {
-    "name": "wordbuttond",
-    "version": "7.23.14",
-    "author": "Mike Meaney",
-    "dependncies": {
-        "express" : "3.x",
-        "request" :"2.37.0"    }
+  "name" : "Wordify",
+  "version" : "0.0.1",
+  "dependencies" : {
+    "express" : "*",
+    "request" :"*",
+    "http" : "*"
+  },
+ 
+  "main": "app.js"
 }
