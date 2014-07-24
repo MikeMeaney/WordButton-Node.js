@@ -1,9 +1,21 @@
 {
-  "name" : "Wordify",
-  "version" : "0.0.1",
-  "dependencies" : {
-    "express" : “4.6.1”,
-    "request" :"2.16.6",
+  "name": "wordify",
+  "version": "0.0.0",
+  "description": "One button random worderizer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MikeMeaney/WordButton-Node.js.git"
+  },
+  "author": "Mike Meaney 2014",
+  "license": "BSD",
+  "gitHead": "bf030c0ee83b99b782a1ff232213dee3876e8136",
+  "dependencies": {
+    "express": "~4.6.1",
+    "request": "~2.38.0"
+  }
 }
